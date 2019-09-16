@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "pieter post",
+    "company": "Postbedrijf",
+    "phone": "123456789"
+  },
+  {
+    "id": 2,
+    "name": "Kees post",
+    "company": "Postbedrijf",
+    "phone": "123456789"
+  },
+  {
+    "id": 3,
+    "name": "gekko post",
+    "company": "Postbedrijf",
+    "phone": "123456789"
+  }
+]
