@@ -25,7 +25,7 @@ function loadCustomer(e) {
       document.getElementById('customer').innerHTML = output;
     }
   }
-
+// comment
   xhr.send();
 }
 
@@ -52,7 +52,7 @@ function loadCustomers(e) {
         `;
       });
 
-      
+
 
       document.getElementById('customers').innerHTML = output;
     }
