@@ -1,5 +1,5 @@
 document.querySelector('.get-jokes').addEventListener('click', getJokes);
-
+// gratis t-shirt 1/4
 function getJokes(e){
   // console.log('get jokes');
 
